@@ -1,0 +1,2 @@
+var CONTAINER_ENEMIES = [];
+var CONTAINER_BULLETS = [];
